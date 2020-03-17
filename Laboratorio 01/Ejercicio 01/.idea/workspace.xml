@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1ZEJoUqVA7JnoqUdwWLnmjnJBSu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -46,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584398497816</updated>
       <workItem from="1584398512535" duration="953000" />
+      <workItem from="1584401719776" duration="236000" />
     </task>
     <servers />
   </component>
@@ -53,10 +58,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="-649" key="FileChooserDialogImpl" timestamp="1584399351168">
+    <state x="463" y="-649" key="FileChooserDialogImpl" timestamp="1584401950226">
       <screen x="0" y="-768" width="1366" height="728" />
     </state>
-    <state x="463" y="-649" key="FileChooserDialogImpl/0.0.1366.728/0.-768.1366.728@0.-768.1366.728" timestamp="1584399351168" />
+    <state x="463" y="-649" key="FileChooserDialogImpl/0.0.1366.728/0.-768.1366.728@0.-768.1366.728" timestamp="1584401950226" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584398596263">
       <screen x="0" y="-768" width="1366" height="728" />
     </state>
@@ -73,9 +78,13 @@
       <screen x="0" y="-768" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/0.-768.1366.728@0.-768.1366.728" timestamp="1584398596263" />
-    <state x="379" y="-580" key="com.intellij.ide.util.TipDialog" timestamp="1584398515404">
+    <state x="379" y="-580" key="com.intellij.ide.util.TipDialog" timestamp="1584401717604">
       <screen x="0" y="-768" width="1366" height="728" />
     </state>
-    <state x="379" y="-580" key="com.intellij.ide.util.TipDialog/0.0.1366.728/0.-768.1366.728@0.-768.1366.728" timestamp="1584398515404" />
+    <state x="379" y="-580" key="com.intellij.ide.util.TipDialog/0.0.1366.728/0.-768.1366.728@0.-768.1366.728" timestamp="1584401717604" />
+    <state x="65" y="-768" key="new project wizard" timestamp="1584401953511">
+      <screen x="0" y="-768" width="1366" height="728" />
+    </state>
+    <state x="65" y="-768" key="new project wizard/0.0.1366.728/0.-768.1366.728@0.-768.1366.728" timestamp="1584401953511" />
   </component>
 </project>
