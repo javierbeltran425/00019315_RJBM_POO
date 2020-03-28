@@ -18,9 +18,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ejercicio 04" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -51,6 +52,7 @@
       <updated>1584398497816</updated>
       <workItem from="1584398512535" duration="953000" />
       <workItem from="1584401719776" duration="236000" />
+      <workItem from="1585082679810" duration="37000" />
     </task>
     <servers />
   </component>
@@ -58,10 +60,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="-649" key="FileChooserDialogImpl" timestamp="1584401950226">
+    <state x="463" y="-649" key="FileChooserDialogImpl" timestamp="1585082715931">
       <screen x="0" y="-768" width="1366" height="728" />
     </state>
-    <state x="463" y="-649" key="FileChooserDialogImpl/0.0.1366.728/0.-768.1366.728@0.-768.1366.728" timestamp="1584401950226" />
+    <state x="463" y="-649" key="FileChooserDialogImpl/0.0.1366.728/0.-768.1366.728@0.-768.1366.728" timestamp="1585082715931" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584398596263">
       <screen x="0" y="-768" width="1366" height="728" />
     </state>
