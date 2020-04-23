@@ -1,0 +1,5 @@
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 05\Ejercicio_4\Ejercicio_4\bin\Debug\Ejercicio_4.exe
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 05\Ejercicio_4\Ejercicio_4\bin\Debug\Ejercicio_4.pdb
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 05\Ejercicio_4\Ejercicio_4\obj\Debug\Ejercicio_4.csprojAssemblyReference.cache
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 05\Ejercicio_4\Ejercicio_4\obj\Debug\Ejercicio_4.exe
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 05\Ejercicio_4\Ejercicio_4\obj\Debug\Ejercicio_4.pdb
