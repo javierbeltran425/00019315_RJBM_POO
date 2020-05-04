@@ -1,0 +1,9 @@
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 07\bin\Debug\Laboratorio_07.exe.config
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 07\bin\Debug\Laboratorio_07.exe
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 07\bin\Debug\Laboratorio_07.pdb
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 07\obj\Debug\Laboratorio 07.csprojAssemblyReference.cache
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 07\obj\Debug\Laboratorio_07.Properties.Resources.resources
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 07\obj\Debug\Laboratorio 07.csproj.GenerateResource.cache
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 07\obj\Debug\Laboratorio_07.exe
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 07\obj\Debug\Laboratorio_07.pdb
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 07\obj\Debug\Laboratorio_07.Form1.resources
