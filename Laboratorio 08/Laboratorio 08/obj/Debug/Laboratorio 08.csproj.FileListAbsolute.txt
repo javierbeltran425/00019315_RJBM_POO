@@ -1,0 +1,11 @@
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 08\Laboratorio 08\bin\Debug\Laboratorio_08.exe.config
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 08\Laboratorio 08\bin\Debug\Laboratorio_08.pdb
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 08\Laboratorio 08\obj\Debug\Laboratorio 08.csprojAssemblyReference.cache
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 08\Laboratorio 08\obj\Debug\Laboratorio_08.Properties.Resources.resources
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 08\Laboratorio 08\obj\Debug\Laboratorio 08.csproj.GenerateResource.cache
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 08\Laboratorio 08\obj\Debug\Laboratorio_08.exe
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 08\Laboratorio 08\obj\Debug\Laboratorio_08.pdb
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 08\Laboratorio 08\obj\Debug\Laboratorio_08.Form1.resources
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 08\Laboratorio 08\obj\Debug\Laboratorio_08.login.resources
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 08\Laboratorio 08\obj\Debug\Laboratorio_08.Register.resources
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 08\Laboratorio 08\obj\Debug\Laboratorio 08.csproj.CopyComplete
