@@ -33,3 +33,4 @@ C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 09\Laborato
 C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 09\Laboratorio09\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 09\Laboratorio09\bin\Debug\System.ValueTuple.xml
 C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 09\Laboratorio09\obj\Debug\Laboratorio09.exe.config
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 09\Laboratorio09\obj\Debug\Laboratorio09.csproj.CoreCompileInputs.cache

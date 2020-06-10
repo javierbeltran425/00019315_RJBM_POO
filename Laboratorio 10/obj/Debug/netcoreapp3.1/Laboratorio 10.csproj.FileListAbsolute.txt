@@ -1,0 +1,13 @@
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 10\bin\Debug\netcoreapp3.1\Laboratorio 10.exe
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 10\bin\Debug\netcoreapp3.1\Laboratorio 10.deps.json
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 10\bin\Debug\netcoreapp3.1\Laboratorio 10.runtimeconfig.json
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 10\bin\Debug\netcoreapp3.1\Laboratorio 10.runtimeconfig.dev.json
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 10\bin\Debug\netcoreapp3.1\Laboratorio 10.dll
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 10\bin\Debug\netcoreapp3.1\Laboratorio 10.pdb
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 10\obj\Debug\netcoreapp3.1\Laboratorio 10.csprojAssemblyReference.cache
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 10\obj\Debug\netcoreapp3.1\Laboratorio 10.AssemblyInfoInputs.cache
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 10\obj\Debug\netcoreapp3.1\Laboratorio 10.AssemblyInfo.cs
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 10\obj\Debug\netcoreapp3.1\Laboratorio 10.csproj.CoreCompileInputs.cache
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 10\obj\Debug\netcoreapp3.1\Laboratorio 10.dll
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 10\obj\Debug\netcoreapp3.1\Laboratorio 10.pdb
+C:\Users\rjbel\Desktop\Universidad\POO\00019315_RJBM_POO\Laboratorio 10\obj\Debug\netcoreapp3.1\Laboratorio 10.genruntimeconfig.cache
